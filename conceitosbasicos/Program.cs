@@ -5,3 +5,5 @@ Console.WriteLine("A idade é " + idade);
 if (idade >= 18) {
     Console.WriteLine("Você pode tirar habilitação");
 }
+
+Console.WriteLine("Teste");
