@@ -57,4 +57,4 @@ else
     Console.WriteLine(mensagemPrefixo + valorARecolher);
 }
 
-Console.WriteLine("Teste");
+Console.WriteLine("Seu salário será de {0}", salario - valorARecolher);
