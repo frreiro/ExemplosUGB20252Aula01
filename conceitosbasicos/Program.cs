@@ -56,3 +56,5 @@ else
     valorARecolher = (salario * 0.275) - 908.73;
     Console.WriteLine(mensagemPrefixo + valorARecolher);
 }
+
+Console.WriteLine("Teste");
